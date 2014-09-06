@@ -1,4 +1,5 @@
 iotHackDay
 ==========
 
-Code for imp and pubnub to get an LED light to blink
+Code created at Internet of Things HackDay 9/6/2014
+
